@@ -6,3 +6,4 @@ uvicorn
 matplotlib
 seaborn
 scikit-learn
+plotly
